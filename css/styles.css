@@ -1375,9 +1375,9 @@ button {
     margin-left: 0;
   }
 
-  .footer-social-list {
-    margin-left: auto;
-  }
+.footer-social-list {
+  margin: 0 auto;
+}
 }
 
 @media screen and (min-width: 768px) and (max-width: 1439px) {
@@ -1606,13 +1606,15 @@ button {
     max-width: 340px;
   }
 
-  .contacts-image {
-    width: 704px;
+.contacts-image {
+    width: 100%;           
+    max-width: 704px;      
     height: 396px;
-    max-width: 100%;
     display: block;
-  margin: 0 auto;
-}
+    margin-left: auto;     
+    margin-right: auto;    
+    object-fit: cover;
+  }
 
   .product-modal {
     max-width: 704px;
