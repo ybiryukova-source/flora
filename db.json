@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Spring Elegance",
+      "price": 35,
+      "image": "./images/perfect_gift.png",
+      "image2x": "./images/perfect_gift@2x.png",
+      "alt": "Spring Elegance bouquet"
+    },
+    {
+      "id": 2,
+      "name": "Berry Chic",
+      "price": 40,
+      "image": "./images/bridal.png",
+      "image2x": "./images/bridal@2x.png",
+      "alt": "Berry Chic bouquet"
+    },
+    {
+      "id": 3,
+      "name": "Lavender Dream",
+      "price": 55,
+      "image": "./images/mixed_flower.png",
+      "image2x": "./images/mixed_flower@2x.png",
+      "alt": "Lavender Dream bouquet"
+    }
+  ],
+
+  "bouquets": [
+    {
+      "id": 1,
+      "name": "Peach Meadow",
+      "price": 55,
+      "image": "./images/side_view_rose.png",
+      "image2x": "./images/side_view_rose@2x.png",
+      "alt": "Peach Meadow bouquet"
+    },
+    {
+      "id": 2,
+      "name": "Blush Romance",
+      "price": 34,
+      "image": "./images/florist_makes.png",
+      "image2x": "./images/florist_makes@2x.png",
+      "alt": "Blush Romance bouquet"
+    },
+    {
+      "id": 3,
+      "name": "Pastel Garden",
+      "price": 40,
+      "image": "./images/big_basket.png",
+      "image2x": "./images/big_basket@2x.png",
+      "alt": "Pastel Garden bouquet"
+    },
+    {
+      "id": 4,
+      "name": "Tulip Charm",
+      "price": 61,
+      "image": "./images/flower_composition.png",
+      "image2x": "./images/flower_composition@2x.png",
+      "alt": "Tulip Charm bouquet"
+    },
+    {
+      "id": 5,
+      "name": "Berry Bloom",
+      "price": 32,
+      "image": "./images/exotic.png",
+      "image2x": "./images/exotic@2x.png",
+      "alt": "Berry Bloom bouquet"
+    },
+    {
+      "id": 6,
+      "name": "Sweet Whisper",
+      "price": 40,
+      "image": "./images/filled.png",
+      "image2x": "./images/filled@2x.png",
+      "alt": "Sweet Whisper bouquet"
+    },
+    {
+      "id": 7,
+      "name": "Field Joy",
+      "price": 49,
+      "image": "./images/wild-flowers.png",
+      "image2x": "./images/wild-flowers@2x.png",
+      "alt": "Field Joy bouquet"
+    },
+    {
+      "id": 8,
+      "name": "Soft Bloom",
+      "price": 37,
+      "image": "./images/close_up_bouquet.png",
+      "image2x": "./images/close_up_bouquet@2x.png",
+      "alt": "Soft Bloom bouquet"
+    },
+    {
+      "id": 9,
+      "name": "Golden Blossom",
+      "price": 52,
+      "image": "./images/perfect_gift.png",
+      "image2x": "./images/perfect_gift@2x.png",
+      "alt": "Golden Blossom bouquet"
+    },
+    {
+      "id": 10,
+      "name": "Summer Breeze",
+      "price": 46,
+      "image": "./images/bridal.png",
+      "image2x": "./images/bridal@2x.png",
+      "alt": "Summer Breeze bouquet"
+    },
+    {
+      "id": 11,
+      "name": "Elegant Garden",
+      "price": 58,
+      "image": "./images/mixed_flower.png",
+      "image2x": "./images/mixed_flower@2x.png",
+      "alt": "Elegant Garden bouquet"
+    }
+  ]
+}

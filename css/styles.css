@@ -260,6 +260,13 @@ button {
   background-position: center;
   background-size: cover;
 }
+@media (min-resolution: 2dppx) {
+  .hero {
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
+      url("../images/hero-bg-mobile@2x.png");
+  }
+}
 
 .hero-content {
   display: flex;
@@ -351,6 +358,12 @@ button {
   width: 100%;
   border-radius: 16px;
   content: url("../images/elevated_t.png");
+}
+
+@media (min-resolution: 2dppx) {
+  .about-image {
+    content: url("../images/elevated_t@2x.png");
+  }
 }
 
 .bouquets-gallery {
@@ -1422,6 +1435,13 @@ button {
     background-position: right center;
     background-size: cover;
   }
+  @media screen and (min-width: 768px) and (min-resolution: 2dppx) {
+  .hero {
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
+      url("../images/hero-bg-tablet@2x.png");
+  }
+}
 
   .hero-content {
     width: 343px;
@@ -1496,7 +1516,11 @@ button {
     border-radius: 16px;
     content: url("../images/elevated_t.png");
   }
-
+@media (min-resolution: 2dppx) {
+  .about-image {
+    content: url("../images/elevated_t@2x.png");
+  }
+}
   .bouquets-gallery {
     padding: 80px 0;
   }
@@ -1586,7 +1610,9 @@ button {
     width: 704px;
     height: 396px;
     max-width: 100%;
-  }
+    display: block;
+  margin: 0 auto;
+}
 
   .product-modal {
     max-width: 704px;
@@ -1725,7 +1751,13 @@ button {
     background-position: center;
     background-size: cover;
   }
-
+@media screen and (min-width: 1440px) and (min-resolution: 2dppx) {
+  .hero {
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
+      url("../images/hero-bg-desktop@2x.png");
+  }
+}
   .hero-content {
     width: 667px;
     max-width: 667px;
